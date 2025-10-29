@@ -3,7 +3,7 @@
 A curated collection of **free and open-source** Quran resources including APIs, Flutter packages, web apps, mobile apps, databases, fonts, and development tools for Islamic app developers.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/awesome-quran-resources?style=social)](https://github.com/yourusername/awesome-quran-resources)
+[![GitHub Stars](https://img.shields.io/github/stars/the-razib/awesome-quran-resources?style=social)](https://github.com/yourusername/awesome-quran-resources)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Note:** All resources listed here are **completely free** and suitable for building Islamic applications. May Allah reward all the contributors and developers who made these resources available.
