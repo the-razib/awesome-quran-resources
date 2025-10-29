@@ -10,7 +10,7 @@ A curated collection of **free and open-source** Quran resources including APIs,
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Quran APIs](resources/apis.md) - REST APIs for Quran data, translations, and audio
 - [Flutter Packages](resources/flutter.md) - Flutter packages for Quran and Islamic utilities
@@ -24,7 +24,7 @@ A curated collection of **free and open-source** Quran resources including APIs,
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### For Developers
 
@@ -46,7 +46,7 @@ A curated collection of **free and open-source** Quran resources including APIs,
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 - **Total APIs:** 8+
 - **Flutter Packages:** 12+
@@ -59,7 +59,7 @@ A curated collection of **free and open-source** Quran resources including APIs,
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
 
@@ -74,7 +74,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
