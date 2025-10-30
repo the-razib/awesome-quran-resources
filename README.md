@@ -16,7 +16,8 @@ A curated collection of **free and open-source** Quran resources including APIs,
 - [Flutter Packages](resources/flutter.md) - Flutter packages for Quran and Islamic utilities
 - [Mobile Apps](resources/mobile.md) - Open-source Android, iOS, and cross-platform apps
 - [Web Applications](resources/web.md) - Web-based Quran readers and tools
-- [Images & PDFs](resources/images-pdf.md) - Quran page images (604 pages) and PDF downloads
+- [Page Images](resources/images.md) - Quran page images (604 pages) in PNG, JPG, SVG formats
+- [PDF Downloads](resources/pdf.md) - Complete Quran PDFs with translations
 - [Fonts](resources/fonts.md) - Quranic fonts (QCF, Uthmani, etc.)
 - [Databases & Datasets](resources/datasets.md) - Quran text, translations, and layouts
 - [Audio Resources](resources/audio.md) - Recitations and audio CDNs
@@ -42,7 +43,8 @@ A curated collection of **free and open-source** Quran resources including APIs,
 - **Best API:** [Quran.com API](resources/apis.md#1-qurancom-api) - 90+ translations, word-by-word data
 - **Best Flutter Package:** [qcf_quran](resources/flutter.md#1-qcf_quran) - Perfect Mushaf layout
 - **Best Open Source App:** [Quran for Android](resources/mobile.md#1-quran-for-android) - 2,200+ stars
-- **Best Images:** [Quran SVG](resources/images-pdf.md#6-quran-svg-github---batoulapps) - 604 pages in vector format
+- **Best Images:** [Quran SVG](resources/images.md#6-quran-svg-github---batoulapps) - 604 pages in vector format
+- **Best PDFs:** [The Quran World](resources/pdf.md#5-the-quran-world---free-downloads) - Multiple Mushaf styles
 - **Best Font:** [QCF V2](resources/fonts.md#1-qcf-quranic-computer-font) - Page-specific fonts
 - **Best Database:** [Tarteel QUL](resources/datasets.md#1-tarteel-ai---quranic-universal-library) - Largest Quranic library
 
