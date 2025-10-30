@@ -4,7 +4,7 @@ Free downloadable Quran page images (604 pages) in various formats for app devel
 
 ---
 
-## 📸 Quran Page Images (604 Pages)
+## Quran Page Images (604 Pages)
 
 ### PNG/JPG Format
 
@@ -70,7 +70,7 @@ git clone https://github.com/QuranHub/quran-pages-images.git
 
 ---
 
-## 🎨 SVG Format (Vector)
+## SVG Format (Vector)
 
 ### 6. **Quran SVG (GitHub - batoulapps)**
 - **URL:** https://github.com/batoulapps/quran-svg
@@ -87,7 +87,7 @@ git clone https://github.com/batoulapps/quran-svg.git
 
 ---
 
-## 🌐 Quran Page Image APIs
+## Quran Page Image APIs
 
 ### Live Image APIs
 
@@ -116,7 +116,7 @@ git clone https://github.com/batoulapps/quran-svg.git
 
 ---
 
-## 🎨 Vector Files (For Designers)
+## Vector Files (For Designers)
 
 ### Adobe Illustrator Files
 
@@ -130,33 +130,6 @@ git clone https://github.com/batoulapps/quran-svg.git
 
 ---
 
-## 💡 Usage Tips for Developers
-
-### Image Integration
-
-**Flutter Example:**
-```dart
-// Display Quran page from API
-Image.network(
-  'https://quran-images-api.herokuapp.com/show/page/1',
-  fit: BoxFit.contain,
-)
-
-// Display local Quran page
-Image.asset(
-  'assets/quran_pages/page_001.png',
-  fit: BoxFit.contain,
-)
-```
-
-**React/Next.js Example:**
-```jsx
-<img 
-  src="https://quran-images-api.herokuapp.com/show/page/1"
-  alt="Quran Page 1"
-  style={{ width: '100%', height: 'auto' }}
-/>
-```
 
 ### Local Storage Strategy
 
@@ -188,68 +161,6 @@ CachedNetworkImage(
 )
 ```
 
-**Lazy Loading:**
-- Load images only when needed
-- Use pagination or infinite scroll
-- Preload adjacent pages
-
-**Image Compression:**
-- Use WebP format for web
-- Optimize PNG with tools like TinyPNG
-- Consider progressive JPEGs
-
-### Best Practices
-
-1. **Choose Right Format:**
-   - SVG: Best for scalability, smaller size
-   - PNG: High quality, larger size
-   - JPG: Good balance, lossy compression
-
-2. **Implement Offline Mode:**
-   - Cache all viewed pages
-   - Allow users to download full Quran
-   - Sync when online
-
-3. **Responsive Design:**
-   - Support different screen sizes
-   - Implement pinch-to-zoom
-   - Maintain aspect ratio
-
-4. **Accessibility:**
-   - Provide text alternative
-   - Support screen readers
-   - High contrast mode
-
----
-
-## 🎨 Tips for Designers
-
-### Vector Advantages
-
-- **Infinite Scaling:** No quality loss at any size
-- **Easy Editing:** Modify colors, shapes, effects
-- **Smaller Files:** Vector files are often smaller
-- **Print Ready:** Perfect for high-resolution printing
-
-### Recommended Workflow
-
-1. **Start with SVG or AI files**
-2. **Edit in vector software** (Illustrator, Inkscape)
-3. **Export to required formats** (PNG, JPG, WebP)
-4. **Optimize for target platform** (web, mobile, print)
-5. **Test on different devices**
-
-### Color Modifications
-
-**Tajweed Colors:**
-- Use color-coded versions for learning
-- Maintain consistency across pages
-- Ensure sufficient contrast
-
-**Dark Mode:**
-- Invert colors for dark backgrounds
-- Adjust opacity for better readability
-- Test in different lighting conditions
 
 ---
 
