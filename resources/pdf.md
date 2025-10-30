@@ -156,58 +156,6 @@ Free downloadable Quran PDF files in multiple languages, styles, and formats.
 
 ---
 
-## 📚 PDF Categories
-
-### By Script Style
-
-**Madina Mushaf:**
-- Standard 604-page layout
-- 15 lines per page
-- King Fahd Complex official print
-
-**IndoPak Style:**
-- Nastaleeq script
-- Popular in South Asia
-- Distinctive calligraphy
-
-**Uthmani Script:**
-- Classical Ottoman style
-- Traditional appearance
-- Widely recognized
-
-### By Qira'at (Recitation)
-
-**Hafs (Most Common):**
-- Standard worldwide
-- Used in most countries
-- Default for most apps
-
-**Warsh:**
-- Popular in North Africa
-- Different pronunciation rules
-- Distinct text variations
-
-**Other Qira'at:**
-- Qaloon, Al-Duri, Al-Soussi, Shuba
-- Regional preferences
-- Scholarly study
-
-### By Purpose
-
-**Study & Learning:**
-- Tajweed color-coded
-- Word-by-word translation
-- Tafsir included
-
-**Reading & Recitation:**
-- Large font versions
-- Clean, simple layout
-- Easy on eyes
-
-**Reference:**
-- Multiple translations
-- Footnotes and commentary
-- Index and search features
 
 ---
 
@@ -229,35 +177,6 @@ PDFView(
 )
 ```
 
-**PDF to Images:**
-- Convert PDF pages to images for better control
-- Use tools like ImageMagick or pdf2image
-- Cache converted images
-
-**Offline Access:**
-- Bundle PDF in app assets
-- Or download on first launch
-- Implement progress indicator
-
-### For Users
-
-**Reading Tips:**
-- Use PDF readers with bookmark support
-- Enable night mode for dark reading
-- Adjust zoom for comfortable reading
-- Use search function to find verses
-
-**Printing:**
-- Use high-quality PDFs for printing
-- Check page orientation
-- Verify margins before printing
-- Consider paper quality
-
-**Sharing:**
-- Most PDFs are free to share
-- Verify license before distribution
-- Maintain attribution if required
-- Don't modify without permission
 
 ---
 
@@ -273,37 +192,6 @@ PDFView(
 
 ---
 
-## 🔍 Finding the Right PDF
-
-**For Beginners:**
-- Start with English translation
-- Choose large font version
-- Look for simple layout
-
-**For Students:**
-- Get Tajweed color-coded
-- Include word-by-word translation
-- Find version with Tafsir
-
-**For Scholars:**
-- Multiple Qira'at versions
-- Original Arabic with footnotes
-- Reference materials included
-
-**For Elderly:**
-- Large print (16-line)
-- High contrast
-- Simple, clean design
-
----
-
-## 📱 Mobile-Friendly PDFs
-
-**Optimization Tips:**
-- Choose smaller file sizes for mobile
-- Use compressed PDFs
-- Enable fast web view
-- Optimize for vertical scrolling
 
 **Recommended Sizes:**
 - Phone: < 50 MB
