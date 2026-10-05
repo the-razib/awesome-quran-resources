@@ -27,11 +27,19 @@ Web-based Quran readers, study tools, and Islamic resources.
   - Tajweed data
 - **License:** Open source
 
+### 3. **Moustaqim**
+- **URL:** https://moustaqim.com/coran/
+- **Features:**
+  - Read and listen to the Quran (114 surahs)
+  - Word-by-word, tajwid, tafsir, and Quranic glossary
+  - Multilingual interface (French, English, Arabic + more)
+- **License:** Free to use
+
 ---
 
 ## Study & Research Tools
 
-### 3. **Quran Tools**
+### 4. **Quran Tools**
 - **URL:** http://quran-tools.com
 - **Features:**
   - Passage search
@@ -41,7 +49,7 @@ Web-based Quran readers, study tools, and Islamic resources.
   - Critical study tools
 - **License:** Open source (Melbourne School of Theology)
 
-### 4. **Islam & AI**
+### 5. **Islam & AI**
 - **URL:** https://islamandai.com
 - **Features:**
   - AI-powered Islamic Q&A
@@ -73,3 +81,4 @@ Web-based Quran readers, study tools, and Islamic resources.
 ---
 
 **Back to [Main README](../README.md)**
+
